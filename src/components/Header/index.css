@@ -1,0 +1,16 @@
+.nav-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lists-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-item {
+  list-style-type: none;
+  padding-right: 20px;
+}
